@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Hello from './components/Hello.js'
-import Testing from './components/Testing.js'
+import Hello from './components/Hello'
+import Testing from './components/Testing'
 
 function App() {
   return (

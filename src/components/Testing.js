@@ -1,7 +1,25 @@
-import React from 'react'
+// import React,{ Component } from 'react'
 
-function Testing(){
-    return <p>This is for testing, please ignore this.</p>
+// class Testing extends Component
+// {
+//     render()
+//     {
+//         return <p>This is for class component Example</p>
+//     }
+    
+// }
+
+// export default Testing
+
+
+import React, { Component } from 'react'
+
+class Testing extends Component
+{
+    render()
+    {
+        return <p>This is for Hello</p>
+    }
 }
 
 export default Testing
